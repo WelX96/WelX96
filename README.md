@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @WelX96
-- 👀 I’m interested in next lotery numbers
-- 🌱 I’m currently learning how to cook
-- 💞️ I’m looking to collaborate on a dope song
 - 📫 How to reach me doru_grepolis@yahoo.com
 
 <!--
